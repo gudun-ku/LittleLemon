@@ -1,3 +1,3 @@
 # Little Lemon
 
-Little Lemon is an Android Application made in order to complete Coursera Android App Capstone 
+Little Lemon is an Android Application made in order to complete Coursera Android App Capstone (by Meta).
